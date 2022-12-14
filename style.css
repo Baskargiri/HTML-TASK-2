@@ -1,0 +1,30 @@
+
+.header{
+    text-align: center;
+}
+.container{
+   
+    display: flex;
+    border: 3px solid;
+    margin: 25px;
+    width: auto;
+    height: auto;
+
+}
+.form{
+    text-align: right;
+    margin-right: 0px;
+    margin-left: auto;
+    right: 67px;
+    left: -129px;
+    top: 20px;
+    position: relative;
+}
+.image img{
+    height: 267px;
+    margin: 10px;
+    right: auto;
+    left: 95px;
+    top: 0spx;
+    position: relative;
+}
